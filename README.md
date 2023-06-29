@@ -1,0 +1,1 @@
+# EDA_and_Predicitve_Modeling_of_Algerian_Forest_Fire.
